@@ -1,0 +1,37 @@
+name: I have an idea
+description: Something that could make Hack SP better.
+title: "[Idea]: "
+labels:
+  - enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome.
+
+        They don't need to be completely figured out before you share them.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+      description: Tell us what you'd like to see.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why would this be useful?
+      description: What problem does it solve or what could it improve?
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Mockups, examples, links or additional context are welcome.
+    validations:
+      required: false
