@@ -14,170 +14,45 @@
 
 ---
 
-<div align="center">
+# What is Hack SP?
 
-## **Who we are**
+Hack SP (hacksp.org) is a project developed by high school students dedicated to providing incredible hackathon experiences for teenagers in São Paulo.
 
-Hack SP is a student-led initiative dedicated to creating meaningful hackathon experiences for teenagers.
+> ### What is a hackathon?
+> A hackathon is an intensive and collaborative event where participants from different areas work in teams to develop innovative solutions within a limited period of time. Its goal is to stimulate creativity, experimentation, and rapid prototyping, resulting in projects that respond to challenges proposed by the event's organizers.
 
-We believe technology becomes much more interesting when you stop only learning about it and start **building with it**.
+Hack SP is fiscally sponsored by Hack Club, a 501(c)(3) non-profit organization that encourages over 100,000 teenagers around the world to code through a network of clubs and programming events. You can view our public finances at: [https://hcb.hackclub.com/hack-sp/transactions](https://hcb.hackclub.com/hack-sp/transactions).
 
-Our events bring students together to create projects, experiment with new ideas, meet people with similar interests and discover what they are capable of making.
+**Fiscal sponsorship** is a legal and financial arrangement in which a recognized non-profit organization extends its tax-exempt status to a project that aligns with its mission. This allows Hack SP to operate as a public initiative while Hack Club manages compliance, donations, accounting, and governance oversight.
 
-</div>
+Being a non-profit initiative clearly demonstrates our commitment to keeping Hack SP free and open-source for everyone. This paves the way for a sustainable development model that goes beyond personal participation. It also offers important legal protections and guarantees for those who adopt and use Hack SP.
 
-<br>
+---
 
-<div align="center">
+![](https://github.com/hacksp-org/events/blob/main/assets/events/drx_hacksp/event1.jpeg)
 
-## **Our mission**
+# Our Mission
 
-Our mission is to inspire the next generation of creators by giving students the space, tools and community to turn ideas into real projects.
+Our mission is to inspire the next generation of creators by introducing them to project development, such as apps, websites, and games, in a fun and collaborative environment.
 
-Hackathons are not only about programming.
+Participants will work in teams to build projects and develop their skills in creativity, collaboration, and innovation. Hack SP aligns with Hack Club's vision: hacking means solving problems, innovating, and forming lasting friendships that extend beyond events. Hackathons allow more teenagers to discover the joy we have in coding. Our events give people the opportunity to learn to code for the first time in a safe environment.
 
-They are about **curiosity, creativity, collaboration and initiative**.
+The magic of hackathons is being able to be inspired by peers who are also innovating and building cool projects, even after the event. Furthermore, making friends and building a community are among the most important parts of hackathons like those of Hack SP.
 
-They give people the chance to try something new, learn from others and build something they can actually show at the end of the day.
+Our goal is to run at least 10 hackathons for teenagers in 2026, with at least 3 outside of São Paulo in a project we call Hack BR. Hackathons have changed our lives, and we want to change others'.
 
-</div>
+By supporting us, you help us promote our mission. We cannot hold these events without you, and we would welcome any support.
 
-<br>
+---
 
-<div align="center">
+# What we have done in the past
 
-## **What we believe**
+Hack SP has already organized:
 
-</div>
+![](https://github.com/hacksp-org/events/blob/main/assets/events/daydream-sp/event4.jpeg)
+ - <b>Daydream São Paulo</b>, at the Institute of Mathematics, Statistics and Computer Science at the University of São Paulo (IME-USP).
 
-<table>
-<tr>
-<td align="center" width="25%">
+![](https://github.com/hacksp-org/events/blob/main/assets/events/drx_hacksp/event2.jpeg)
+ - DRX, a hackathon in partnership with Dr. Consulta.
 
-### **Build**
-
-We learn by creating real things.
-
-</td>
-
-<td align="center" width="25%">
-
-### **Access**
-
-Technology should feel accessible to students who are just getting started.
-
-</td>
-
-<td align="center" width="25%">
-
-### **Community**
-
-The people you meet can matter just as much as the project you build.
-
-</td>
-
-<td align="center" width="25%">
-
-### **Impact**
-
-A small idea can become something real in only a few hours.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## **Why hackathons?**
-
-A hackathon is a space where people come together for a limited amount of time to **build something from scratch**.
-
-You form a team.
-
-You choose an idea.
-
-You experiment.
-
-You get stuck.
-
-You learn something new.
-
-And eventually, you show everyone what you made.
-
-<br>
-
-**The goal is not perfection.**
-
-The goal is to leave knowing that you can create more than you thought you could.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## **Built by students, for students**
-
-Hack SP is organized by students who also participate in hackathons, write code, build projects and learn along the way.
-
-That matters to us.
-
-We are not trying to recreate an adult technology conference for a younger audience.
-
-We are building the kind of environment **we would want to be part of ourselves**.
-
-A place that feels open, collaborative, ambitious and fun.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## **More than an event**
-
-Hackathons may last only a day.
-
-The things that come from them can last much longer.
-
-A new project.
-
-A new skill.
-
-A new friend.
-
-A new idea of what you might want to build next.
-
-That is the kind of impact we want Hack SP to create.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## **Open by default**
-
-We believe initiatives built for the community should also be **transparent and accessible to the community**.
-
-Hack SP operates as an open initiative, sharing its work and building in public whenever possible.
-
-Transparency helps us create trust.
-
-Open source helps knowledge stay accessible.
-
-And collaboration helps the project become bigger than the people who started it.
-
-</div>
-
-<br>
-
-<div align="center">
-
-### **Build things. Meet people. Start something.**
-
-[**hacksp.org**](https://hacksp.org)
-
-</div>
+---
