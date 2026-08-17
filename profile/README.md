@@ -23,8 +23,6 @@ Hack SP (hacksp.org) is a project developed by high school students dedicated to
 
 Hack SP is fiscally sponsored by Hack Club, a 501(c)(3) non-profit organization that encourages over 100,000 teenagers around the world to code through a network of clubs and programming events. You can view our public finances at: [https://hcb.hackclub.com/hack-sp/transactions](https://hcb.hackclub.com/hack-sp/transactions).
 
-**Fiscal sponsorship** is a legal and financial arrangement in which a recognized non-profit organization extends its tax-exempt status to a project that aligns with its mission. This allows Hack SP to operate as a public initiative while Hack Club manages compliance, donations, accounting, and governance oversight.
-
 Being a non-profit initiative clearly demonstrates our commitment to keeping Hack SP free and open-source for everyone. This paves the way for a sustainable development model that goes beyond personal participation. It also offers important legal protections and guarantees for those who adopt and use Hack SP.
 
 ---
