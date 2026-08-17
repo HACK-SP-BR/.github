@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/banner.svg" width="100%" alt="Hack SP">
+<img src="https://cdn.hacksp.org/brand/logos/logo-banner-white.png" width="100%" alt="Hack SP">
 
 <br>
 
