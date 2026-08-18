@@ -1,55 +1,61 @@
 # Code of Conduct
 
-Hack SP is a community built by and for students.
+> **TL;DR:**
+> Hack SP is a safe, welcoming, and inclusive space for youth to build amazing things with technology.
+> 
+> We expect everyone to be **genuinely good people** — respectful, patient, helpful, and empathetic.
+> 
+> Any form of harassment, discrimination, inappropriate content, malicious hacking, or use of prohibited substances will result in a warning or immediate removal from the event. If anything makes you feel uncomfortable, please report it to `lucas@hacksp.org`.
 
-We want our repositories, events and online spaces to be places where people feel comfortable learning, building and sharing ideas.
+***
 
-## Be respectful
+### 1. The Core Principle: Genuinely Good People
 
-Treat other people with respect.
+More than just following rules, we expect you to bring your best self to Hack SP. We believe that the best community is built by people who genuinely care about others, want to see their peers grow, and place respect and empathy above all else.
 
-Different levels of experience, backgrounds and opinions are expected and welcome.
+To us, being a genuinely good person means:
 
-Constructive disagreement is fine. Personal attacks are not.
+* **Default to Kindness and Empathy:** Treat everyone with care and consideration. We do not tolerate discrimination or prejudice of any kind — whether based on race, ethnicity, gender identity or expression, sexual orientation, disability, physical appearance, religion, or technical background.
+* **Support Beginners:** Hack SP brings together everyone from total beginners to experienced builders. Good people don't look down on others for what they don't know; they teach, practice patience, and celebrate every small victory together.
+* **Collaborative Spirit:** Give constructive feedback and receive input with an open heart. The goal isn't to be better than others, but to grow together as a community.
+* **Respect the Space:** Respect the event venues, equipment, mentors' time, and instructions from volunteers and organizers.
 
-## Be welcoming
+***
 
-Nobody should be made to feel inferior because they are new to programming, open source, hackathons or technology.
+### 2. Unacceptable Behavior
 
-Help people learn when you can.
+Any behavior that undermines an inclusive and welcoming environment will not be tolerated:
 
-Ask questions when you need to.
+* **Harassment and Intimidation:** Offensive comments, discriminatory jokes, stalking, unauthorized photography or recording, or unwelcome attention.
+* **Inappropriate Content or Language:** Explicitly violent or pornographic material, or hate speech — whether in conversations, code, project presentations, or Discord avatars.
+* **Malicious Hacking:** Using technical skills to exploit systems, disrupt networks, or steal data. To us, hacking means **creating and building awesome things**, not destroying.
+* **Prohibited Substances:** Since our events focus on minors and high school students, the possession, consumption, or distribution of alcohol, tobacco, e-cigarettes (vapes), or illegal drugs is strictly prohibited.
 
-## Don't harass people
+***
 
-Harassment, discrimination, intimidation or unwanted attention are not acceptable.
+### 3. Consequences of Violations
 
-This includes behavior based on characteristics such as age, gender, gender identity, sexual orientation, disability, appearance, nationality, ethnicity, religion or level of technical experience.
+Behaviors that threaten the safety or well-being of the community will lead to immediate action by the Hack SP team, including:
 
-## Remember who our community includes
+1. Formal warning (verbal or written).
+2. Removal from communication channels or expulsion from the Discord server.
+3. Disqualification of team or project from the hackathon.
+4. Immediate expulsion from the venue.
+5. Notification of parents/legal guardians and relevant authorities, if necessary.
 
-Hack SP works primarily with teenagers.
+***
 
-Interactions in Hack SP spaces should always remain appropriate, respectful and safe for young people.
+### 4. Reporting Incidents
 
-## Keep the community constructive
+If you feel unsafe, witness, or suspect any violation of this Code of Conduct, please let us know immediately:
 
-Do not intentionally disrupt discussions, spam projects, abuse community infrastructure or repeatedly act in ways that make participation worse for others.
+* **In Person:** Reach out to any organizer or volunteer (identifiable by event badges or shirts).
+* **Online / Discord:** Send a direct message to a moderator/organizer or open a support ticket.
+* **Email:** Send a confidential email to `lucas@hacksp.org`.
 
-## Reporting a problem
+All reports will be handled with strict confidentiality, seriousness, and urgency.
 
-If you experience or witness behavior that violates this Code of Conduct, contact the Hack SP team privately at:
+***
 
-**contact@hacksp.org**
-
-Please avoid opening a public issue for sensitive reports.
-
-Reports will be reviewed by the Hack SP team and handled as privately as reasonably possible.
-
-## Our responsibility
-
-Hack SP maintainers may remove content, restrict participation or take other appropriate action when this Code of Conduct is violated.
-
-The goal is simple:
-
-**Make Hack SP a place where people can safely build, learn and meet others.**
+This Code of Conduct was adapted from the Hack Club Code of Conduct, which itself was adapted from the Go Code of Conduct.
+It is to be noted that many parts of Go's Code of Conduct are adopted from the Code of Conduct documents of the Django, FreeBSD, and Rust projects. We also took inspiration from KiwiHacks Code of Conduct.
