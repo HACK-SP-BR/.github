@@ -50,7 +50,7 @@ We do not share your personal information except in the following limited circum
 
 You have the right to request access to, correction of, or deletion of the personal data we hold about you.
 
-If you have any questions or privacy requests, please contact us at: `lucas@hacksp.org` *(or the official contact email for the event)*.
+If you have any questions or privacy requests, please contact us at: `lucas@hacksp.org`.
 
 ***
 
