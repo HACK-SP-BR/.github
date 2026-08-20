@@ -1,61 +1,61 @@
-# Code of Conduct
+# Código de Conduta
 
-> **TL;DR:**
-> Hack SP is a safe, welcoming, and inclusive space for youth to build amazing things with technology.
+> **Resumo:**
+> O Hack SP é um espaço seguro, acolhedor e inclusivo para que jovens construam coisas incríveis com tecnologia.
 > 
-> We expect everyone to be **genuinely good people** — respectful, patient, helpful, and empathetic.
+> Esperamos que todos sejam **pessoas genuinamente boas** — respeitosas, pacientes, prestativas e empáticas.
 > 
-> Any form of harassment, discrimination, inappropriate content, malicious hacking, or use of prohibited substances will result in a warning or immediate removal from the event. If anything makes you feel uncomfortable, please report it to `lucas@hacksp.org`.
+> Qualquer forma de assédio, discriminação, conteúdo inapropriado, hacking malicioso ou uso de substâncias proibidas resultará em advertência ou remoção imediata do evento. Se algo fizer você se sentir desconfortável, por favor, denuncie para `lucas@hacksp.org`.
 
 ***
 
-### 1. The Core Principle: Genuinely Good People
+### 1. O Princípio Fundamental: Pessoas Genuinamente Boas
 
-More than just following rules, we expect you to bring your best self to Hack SP. We believe that the best community is built by people who genuinely care about others, want to see their peers grow, and place respect and empathy above all else.
+Mais do que apenas seguir regras, esperamos que você traga o seu melhor para o Hack SP. Acreditamos que a melhor comunidade é construída por pessoas que realmente se importam com os outros, querem ver seus colegas crescerem e colocam o respeito e a empatia acima de tudo.
 
-To us, being a genuinely good person means:
+Para nós, ser uma pessoa genuinamente boa significa:
 
-* **Default to Kindness and Empathy:** Treat everyone with care and consideration. We do not tolerate discrimination or prejudice of any kind — whether based on race, ethnicity, gender identity or expression, sexual orientation, disability, physical appearance, religion, or technical background.
-* **Support Beginners:** Hack SP brings together everyone from total beginners to experienced builders. Good people don't look down on others for what they don't know; they teach, practice patience, and celebrate every small victory together.
-* **Collaborative Spirit:** Give constructive feedback and receive input with an open heart. The goal isn't to be better than others, but to grow together as a community.
-* **Respect the Space:** Respect the event venues, equipment, mentors' time, and instructions from volunteers and organizers.
-
-***
-
-### 2. Unacceptable Behavior
-
-Any behavior that undermines an inclusive and welcoming environment will not be tolerated:
-
-* **Harassment and Intimidation:** Offensive comments, discriminatory jokes, stalking, unauthorized photography or recording, or unwelcome attention.
-* **Inappropriate Content or Language:** Explicitly violent or pornographic material, or hate speech — whether in conversations, code, project presentations, or Discord avatars.
-* **Malicious Hacking:** Using technical skills to exploit systems, disrupt networks, or steal data. To us, hacking means **creating and building awesome things**, not destroying.
-* **Prohibited Substances:** Since our events focus on minors and high school students, the possession, consumption, or distribution of alcohol, tobacco, e-cigarettes (vapes), or illegal drugs is strictly prohibited.
+* **Pratique a Gentileza e a Empatia por Padrão:** Trate todos com cuidado e consideração. Não toleramos discriminação ou preconceito de nenhum tipo — seja com base em raça, etnia, identidade ou expressão de gênero, orientação sexual, deficiência, aparência física, religião ou background técnico.
+* **Apoie Iniciantes:** O Hack SP reúne desde iniciantes absolutos até criadores experientes. Pessoas boas não diminuem os outros pelo que eles não sabem; elas ensinam, praticam a paciência e celebram cada pequena vitória juntas.
+* **Espírito Colaborativo:** Dê feedbacks construtivos e receba opiniões de coração aberto. O objetivo não é ser melhor do que os outros, mas crescer juntos como comunidade.
+* **Respeite o Espaço:** Respeite os locais do evento, os equipamentos, o tempo dos mentores e as instruções de voluntários e organizadores.
 
 ***
 
-### 3. Consequences of Violations
+### 2. Comportamentos Inaceitáveis
 
-Behaviors that threaten the safety or well-being of the community will lead to immediate action by the Hack SP team, including:
+Qualquer comportamento que comprometa um ambiente inclusivo e acolhedor não será tolerado:
 
-1. Formal warning (verbal or written).
-2. Removal from communication channels or expulsion from the Discord server.
-3. Disqualification of team or project from the hackathon.
-4. Immediate expulsion from the venue.
-5. Notification of parents/legal guardians and relevant authorities, if necessary.
-
-***
-
-### 4. Reporting Incidents
-
-If you feel unsafe, witness, or suspect any violation of this Code of Conduct, please let us know immediately:
-
-* **In Person:** Reach out to any organizer or volunteer (identifiable by event badges or shirts).
-* **Online / Discord:** Send a direct message to a moderator/organizer or open a support ticket.
-* **Email:** Send a confidential email to `lucas@hacksp.org`.
-
-All reports will be handled with strict confidentiality, seriousness, and urgency.
+* **Assédio e Intimidação:** Comentários ofensivos, piadas discriminatórias, perseguição (*stalking*), fotografia ou gravação não autorizadas, ou atenção indesejada.
+* **Conteúdo ou Linguagem Inapropriados:** Material explicitamente violento ou pornográfico, ou discurso de ódio — seja em conversas, códigos, apresentações de projetos ou avatares do Discord.
+* **Hacking Malicioso:** Usar habilidades técnicas para explorar sistemas, perturbar redes ou roubar dados. Para nós, hacking significa **criar e construir coisas incríveis**, não destruir.
+* **Substâncias Proibidas:** Como nossos eventos são voltados para menores de idade e estudantes do ensino médio, a posse, o consumo ou a distribuição de álcool, tabaco, cigarros eletrônicos (*vapes*) ou drogas ilícitas são estritamente proibidos.
 
 ***
 
-This Code of Conduct was adapted from the Hack Club Code of Conduct, which itself was adapted from the Go Code of Conduct.
-It is to be noted that many parts of Go's Code of Conduct are adopted from the Code of Conduct documents of the Django, FreeBSD, and Rust projects. We also took inspiration from KiwiHacks Code of Conduct.
+### 3. Consequências de Violações
+
+Comportamentos que ameacem a segurança ou o bem-estar da comunidade levarão a ações imediatas por parte da equipe do Hack SP, incluindo:
+
+1. Advertência formal (verbal ou escrita).
+2. Remoção de canais de comunicação ou expulsão do servidor do Discord.
+3. Desqualificação da equipe ou projeto do hackathon.
+4. Expulsão imediata do local.
+5. Notificação de pais/responsáveis legais e autoridades competentes, se necessário.
+
+***
+
+### 4. Como Denunciar Incidentes
+
+Se você se sentir inseguro, presenciar ou suspeitar de qualquer violação deste Código de Conduta, por favor, avise-nos imediatamente:
+
+* **Pessoalmente:** Procure qualquer organizador ou voluntário (identificáveis por crachás ou camisetas do evento).
+* **Online / Discord:** Envie uma mensagem direta para um moderador/organizador ou abra um *ticket* de suporte.
+* **E-mail:** Envie um e-mail confidencial para `lucas@hacksp.org`.
+
+Todas as denúncias serão tratadas com estrita confidencialidade, seriedade e urgência.
+
+***
+
+Este Código de Conduta foi adaptado do Código de Conduta do Hack Club, que por sua vez foi adaptado do Código de Conduta do Go.
+Vale ressaltar que muitas partes do Código de Conduta do Go foram adotadas a partir dos documentos de Código de Conduta dos projetos Django, FreeBSD e Rust. Também nos inspiramos no Código de Conduta do KiwiHacks.

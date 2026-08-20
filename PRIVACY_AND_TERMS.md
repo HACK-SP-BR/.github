@@ -1,57 +1,58 @@
-# Privacy Notice & Terms
+# Aviso de Privacidade e Termos
 
-> **TL;DR:** Hack SP only collects the minimum amount of personal information necessary to run our events and programs.
->
-> **We never sell your data.** If you are under 18, you need parent or guardian permission to participate.
->
-> We respect your privacy and allow you to request access to or deletion of your data at any time.
-
-***
-
-### 1. Core Privacy Principles
-
-Following Hack Club's fundamental principles, our approach to privacy rests on these key values:
-
-* **Data Minimization:** We only ask for personal information that we truly need to provide you with resources, hackathons, and learning experiences (such as your name, email, age, and emergency contact details).
-* **No Selling of Data:** We do not (and will never) sell your personal information to third parties.
-* **Transparency and Control:** You may decline to share certain information with Hack SP, though doing so may prevent you from participating in programs that strictly require it.
+> **Resumo:**
+> O Hack SP coleta apenas a quantidade mínima de informações pessoais necessária para realizar nossos eventos e programas.
+> 
+> **Nós nunca vendemos seus dados.** Se você tiver menos de 18 anos, precisará da permissão dos pais ou responsáveis para participar.
+> 
+> Respeitamos sua privacidade e permitimos que você solicite o acesso ou a exclusão dos seus dados a qualquer momento.
 
 ***
 
-### 2. Information We Collect and How We Use It
+### 1. Princípios Fundamentais de Privacidade
 
-We collect information provided directly by you or your parent/guardian when registering for our events or joining our community spaces (such as Discord):
+Seguindo os princípios fundamentais do Hack Club, nossa abordagem à privacidade baseia-se nestes valores-chave:
 
-* **Registration and Profile Data:** Name, email, age, school, and emergency contact details for minors.
-* **Parental Consent:** Since our events are geared towards high school students, we require signed parental/guardian consent for in-person participation.
-* **Media and Photography:** In-person events may be photographed, recorded, or streamed for educational, promotional, and community archiving purposes.
-
-***
-
-### 3. Sharing Your Information
-
-We do not share your personal information except in the following limited circumstances:
-
-* **Service Providers:** Essential third-party services used to run Hack SP (such as Discord for communications or form/payment platforms).
-* **Legal Requirements:** When required by law, court order, subpoena, or valid legal request.
-* **Safety and Protection:** To protect the safety, physical well-being, and security of our community participants and platform.
+* **Minimização de Dados:** Solicitamos apenas informações pessoais que realmente precisamos para fornecer recursos, hackathons e experiências de aprendizado (como seu nome, e-mail, idade e detalhes de contato de emergência).
+* **Sem Venda de Dados:** Não vendemos (e nunca venderemos) suas informações pessoais a terceiros.
+* **Transparência e Controle:** Você pode recusar o compartilhamento de certas informações com o Hack SP, embora isso possa impedi-lo de participar de programas que as exijam estritamente.
 
 ***
 
-### 4. Terms of Service & Minors
+### 2. Informações que Coletamos e Como as Usamos
 
-* **Target Audience:** Hack SP's core programs are designed for middle school and high school students.
-* **Parental Permission:** If you are under 18, make sure you have your parent or guardian's permission before joining or submitting information.
-* **In-Person Events:** Physical attendance requires explicit signed parental consent.
+Coletamos informações fornecidas diretamente por você ou por seus pais/responsáveis ao se registrar em nossos eventos ou participar de nossos espaços de comunidade (como o Discord):
 
-***
-
-### 5. Your Rights & Contact Information
-
-You have the right to request access to, correction of, or deletion of the personal data we hold about you.
-
-If you have any questions or privacy requests, please contact us at: `lucas@hacksp.org`.
+* **Dados de Registro e Perfil:** Nome, e-mail, idade, escola e detalhes de contato de emergência para menores de idade.
+* **Consentimento dos Pais:** Como nossos eventos são voltados para estudantes do ensino médio, exigimos o consentimento assinado dos pais/responsáveis para a participação presencial.
+* **Mídia e Fotografia:** Eventos presenciais podem ser fotografados, gravados ou transmitidos para fins educacionais, promocionais e de arquivo da comunidade.
 
 ***
 
-This Privacy Notice and Terms was adapted from the Hack Club Privacy Notice & Terms.
+### 3. Compartilhamento de Suas Informações
+
+Não compartilhamos suas informações pessoais, exceto nas seguintes circunstâncias limitadas:
+
+* **Provedores de Serviços:** Serviços essenciais de terceiros usados para operar o Hack SP (como o Discord para comunicações ou plataformas de formulários).
+* **Requisitos Legais:** Quando exigido por lei, ordem judicial, intimação ou solicitação legal válida.
+* **Segurança e Proteção:** Para proteger a segurança, o bem-estar físico e a integridade dos participantes de nossa comunidade e de nossa plataforma.
+
+***
+
+### 4. Termos de Serviço e Menores de Idade
+
+* **Público-Alvo:** Os principais programas do Hack SP são projetados para estudantes do ensino fundamental II e ensino médio.
+* **Permissão dos Pais:** Se você tiver menos de 18 anos, certifique-se de ter a permissão de seus pais ou responsáveis antes de participar ou enviar informações.
+* **Eventos Presenciais:** A presença física exige consentimento parental explícito e assinado.
+
+***
+
+### 5. Seus Direitos e Informações de Contato
+
+Você tem o direito de solicitar o acesso, a correção ou a exclusão dos dados pessoais que mantemos sobre você.
+
+Se você tiver alguma dúvida ou solicitação de privacidade, entre em contato conosco em: `lucas@hacksp.org`.
+
+***
+
+Este Aviso de Privacidade e Termos foi adaptado do Aviso de Privacidade e Termos do Hack Club.
