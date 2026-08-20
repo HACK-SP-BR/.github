@@ -1,8 +1,8 @@
 # Política de Safeguarding e Proteção dos Jovens
 
-> **Nossa Prioridade Absoluta:** O Hack SP é um projeto feito por adolescentes para adolescentes[cite: 1]. A segurança, o bem-estar e a integridade de todos os menores de idade participantes são a nossa consideração primordial. 
+> **Nossa Prioridade Absoluta:** O Hack SP é um projeto feito por adolescentes para adolescentes. A segurança, o bem-estar e a integridade de todos os menores de idade participantes são a nossa consideração primordial. 
 > 
-> Operamos com total transparência[cite: 1], tolerância zero para assédio e um compromisso irredutível com um ambiente seguro, inclusivo e acolhedor.
+> Operamos com total transparência, tolerância zero para assédio e um compromisso irredutível com um ambiente seguro, inclusivo e acolhedor.
 
 ---
 
@@ -16,7 +16,7 @@ Nossas regras refletem o compromisso com o respeito e o apoio mútuo na comunida
 ---
 
 ## 2. Padrões de Segurança Física e Presencial (Eventos e Hackathons)
-Para garantir um ambiente seguro em nossos hackathons presenciais (como os realizados no IME-USP e na Taqtile)[cite: 1]:
+Para garantir um ambiente seguro em nossos hackathons presenciais:
 
 * **Supervisão Adequada:** Há sempre uma proporção segura de organizadores responsáveis pela supervisão e suporte em relação ao número de participantes.
 * **Perímetro e Circulação:** Os participantes devem permanecer dentro do perímetro do evento durante toda a sua duração, salvo autorização prévia dos organizadores e ciência dos responsáveis.
@@ -48,4 +48,4 @@ Se você presenciar ou sofrer qualquer violação deste código, denuncie imedia
 
 ## 5. Acknowledgement (Reconhecimento)
 
-Esta política de segurança, proteção (*safeguarding*) e código de conduta do Hack SP foi inspirada e adaptada diretamente a partir dos padrões, diretrizes e boas práticas de segurança estabelecidos pelo **Hack Club**, cuja missão global apoiamos e compartilhamos[cite: 1].
+Esta política de segurança e proteção (*safeguarding*) do Hack SP foi inspirada e adaptada diretamente a partir dos padrões, diretrizes e boas práticas de segurança estabelecidos pelo **Hack Club**, cuja missão global apoiamos e compartilhamos.
